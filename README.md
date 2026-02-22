@@ -132,7 +132,6 @@ Other      1 hr 5 mins     █░░░░░░░░░░░░░░░░�
 
 ## 🎯 **2024 Goals**
 
-- [ ] Complete AWS Data Engineering Certification
 - [ ] Build 5 end-to-end data analysis projects
 - [ ] Write 12 blog posts about data analytics
 - [ ] Contribute to open source data projects
