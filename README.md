@@ -18,7 +18,7 @@
 🔧 &nbsp;I have a background in **ERP Technical** support, helping businesses streamline their operations.\
 🌱 &nbsp;I'm currently expanding my skills in **Machine Learning** and **Data Engineering**.\
 💬 &nbsp;Let's connect and discuss data, analytics, or anything tech-related!\
-📫 &nbsp;You can reach me at: **mostafa.eltaweel@example.com**\
+📫 &nbsp;You can reach me at: **mostafa.eltaweel@gmail.com**\
 📍 &nbsp;Based in **Cairo, Egypt**
 
 ---
